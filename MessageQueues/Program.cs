@@ -18,6 +18,8 @@ namespace MessageQueuesSender
             IQueue wq = new WorkQueue();
             wq.Send();
         }
+
+
          
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\xin\Documents\GitHub\MessageQueues\MessageQueues\bin\Debug\netcoreapp1.0\MessageQueues.deps.json
+C:\Users\xin\Documents\GitHub\MessageQueues\MessageQueues\bin\Debug\netcoreapp1.0\MessageQueues.runtimeconfig.json
+C:\Users\xin\Documents\GitHub\MessageQueues\MessageQueues\bin\Debug\netcoreapp1.0\MessageQueues.runtimeconfig.dev.json
+C:\Users\xin\Documents\GitHub\MessageQueues\MessageQueues\bin\Debug\netcoreapp1.0\MessageQueues.dll
+C:\Users\xin\Documents\GitHub\MessageQueues\MessageQueues\bin\Debug\netcoreapp1.0\MessageQueues.pdb
+C:\Users\xin\Documents\GitHub\MessageQueues\MessageQueues\obj\Debug\netcoreapp1.0\MessageQueues.csprojResolveAssemblyReference.cache
+C:\Users\xin\Documents\GitHub\MessageQueues\MessageQueues\obj\Debug\netcoreapp1.0\MessageQueues.AssemblyInfo.cs
+C:\Users\xin\Documents\GitHub\MessageQueues\MessageQueues\obj\Debug\netcoreapp1.0\MessageQueues.dll
+C:\Users\xin\Documents\GitHub\MessageQueues\MessageQueues\obj\Debug\netcoreapp1.0\MessageQueues.pdb
